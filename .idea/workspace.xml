@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d64d9e7d-6cbc-4242-bddc-fd5fc247be8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <workItem from="1745409094868" duration="8751000" />
       <workItem from="1745488769164" duration="12791000" />
       <workItem from="1745570904367" duration="775000" />
-      <workItem from="1751914067533" duration="1263000" />
+      <workItem from="1751914067533" duration="1779000" />
     </task>
     <servers />
   </component>
@@ -75,12 +74,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>664</line>
+          <line>666</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>663</line>
+          <line>665</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
